@@ -107,5 +107,5 @@ const init_game = () => {
 };
 
 change_food_position();
-set_interval_id = setInterval(init_game, 125); // Setando taxa de atualização do campo
+set_interval_id = setInterval(init_game, 120); // Setando taxa de atualização do campo
 document.addEventListener("keydown", change_direction);
