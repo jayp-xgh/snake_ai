@@ -11,11 +11,13 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 header {
   display: flex;
   justify-content: space-between;
+  grid-gap: 30px;
   align-items: center;
   padding: 40px;
   height: 60px;
@@ -27,31 +29,31 @@ header h1 {
 }
 
 #cotainer-section {
-  width: 100%;
-  height: 100%;
+  width: 500px;
+  height: 500px;
   display: flex;
   grid-gap: 10px;
   padding: 20px;
 }
-#cotainer-section section {
-  width: 50%;
+#cotainer-section .container-world-game {
+  width: 100%;
   height: 100%;
   border: solid 1px #3d4b66;
 }
-#cotainer-section section nav {
+#cotainer-section .container-world-game #game-datails {
+  display: flex;
   width: 100%;
   height: 40px;
   border-bottom: solid 1px #3d4b66;
-  display: flex;
   align-items: center;
   grid-gap: 20px;
   justify-content: space-between;
   padding: 30px 30px;
 }
-#cotainer-section section nav p {
+#cotainer-section .container-world-game #game-datails p {
   color: #3d4b66;
 }
-#cotainer-section section button {
+#cotainer-section .container-world-game button {
   width: 100px;
   height: 30px;
   background: none;
@@ -59,10 +61,23 @@ header h1 {
   color: #99FFDD;
   cursor: pointer;
 }
-#cotainer-section section button:hover {
+#cotainer-section .container-world-game button:hover {
   border-color: rgba(153, 255, 221, 0.768627451);
   color: rgba(153, 255, 221, 0.768627451);
 }
-#cotainer-section section span {
+#cotainer-section .container-world-game span {
   color: #9999ff;
+}
+#cotainer-section .container-world-game .play-board {
+  background: #3d4b66;
+  width: 100%;
+  height: 100%;
+  display: grid;
+  grid-template: repeat(30, 1fr)/repeat(30, 1fr);
+}
+#cotainer-section .container-world-game .play-board .food {
+  background-color: #99FFDD;
+}
+#cotainer-section .container-world-game .play-board .heade-snake {
+  background-color: #1f2533;
 }/*# sourceMappingURL=index.css.map */
