@@ -24,7 +24,7 @@ A função `change_food_position()` é definida para escolher uma nova posição
 
 ```js
 const change_food_position = () => {
-  // 30 = tamano tablueiro
+  // 30 = tamanho do tabuleiro
   food.x = Math.floor(Math.random() * 30) + 1;
   food.y = Math.floor(Math.random() * 30) + 1;
 };

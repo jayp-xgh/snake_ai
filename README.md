@@ -1,8 +1,6 @@
-Claro! Aqui está o texto em português:
-
 # Snake ai 🐍
 
-Snake ai é um jogo da cobrinha clássico desenvolvido em JavaScrpt que utiliza algoritmos de inteligência artificial para controlar o movimento da cobra. O jogo é executado em um navegador, que é dividido em duas partes: uma para o jogador jogar e outra para exibir a cobra controlada pela IA.
+Snake ai é um jogo da cobrinha clássico desenvolvido em JavaScript que utiliza algoritmos de inteligência artificial para controlar o movimento da cobra. O jogo é executado em um navegador, que é dividido em duas partes: uma para o jogador jogar e outra para exibir a cobra controlada pela IA.
 
 ## Descrição
 
