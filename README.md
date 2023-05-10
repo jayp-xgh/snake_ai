@@ -10,6 +10,7 @@ O jogador pode jogar contra a IA ou apenas observá-la jogar sozinha. Além diss
 
 ## Detalhes Técnicos
 
+
 O jogo é desenvolvido em JS e utiliza técnicas avançadas de processamento de imagem e redes neurais artificiais. O código-fonte está disponível aqui no GitHub, permitindo que outros desenvolvedores estudem e contribuam com o projeto.
 
 
