@@ -8,7 +8,7 @@ O objetivo do jogo é fazer com que a cobra cresça o máximo possível, evitand
 
 O jogador pode jogar contra a IA ou apenas observá-la jogar sozinha. Além disso, o jogo inclui diferentes níveis de dificuldade, que modificam a velocidade da cobra e a frequência da geração de novos alimentos.
 
-## Detalhes Técnicos
+## Detalhes Técnicos 
 
 
 O jogo é desenvolvido em JS e utiliza técnicas avançadas de processamento de imagem e redes neurais artificiais. O código-fonte está disponível aqui no GitHub, permitindo que outros desenvolvedores estudem e contribuam com o projeto.
