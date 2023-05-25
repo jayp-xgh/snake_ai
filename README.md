@@ -1,7 +1,6 @@
 # snake ai 🐍  
 
 Snake ai é um jogo da cobrinha clássico desenvolvido em JavaScript que utiliza algoritmos de inteligência artificial para controlar o movimento da cobra. O jogo é executado em um navegador, que é dividido em duas partes: uma para o jogador jogar e outra para exibir a cobra controlada pela IA.
-
 ## Descrição
 
 O objetivo do jogo é fazer com que a cobra cresça o máximo possível, evitando colisões com as paredes ou com o próprio corpo. A cobra é controlada pela IA, que foi treinada usando um algoritmo de aprendizado de máquina baseado em redes neurais. A IA recebe informações da tela do navegador, incluindo a posição da cobra, dos obstáculos e da comida, e decide a melhor direção a seguir.
