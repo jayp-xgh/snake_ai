@@ -13,6 +13,6 @@ O jogador pode jogar contra a IA ou apenas observá-la jogar sozinha. Além diss
 O jogo é desenvolvido em JS e utiliza técnicas avançadas de processamento de imagem e redes neurais artificiais. O código-fonte está disponível aqui no GitHub, permitindo que outros desenvolvedores estudem e contribuam com o projeto.
 
 
-## Conclusão
+## Conclusão 
 
 Snake ia é uma excelente oportunidade para aprender e experimentar com algoritmos de inteligência artificial em um ambiente de jogo clássico. Ele combina técnicas avançadas de processamento de imagem e redes neurais artificiais com um jogo clássico da cobrinha, proporcionando uma experiência divertida e desafiadora para jogadores e desenvolvedores.
